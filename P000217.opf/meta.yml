@@ -1,10 +1,11 @@
-ebook_metadata:
+id: P000217
+initial_creation_type: ebook
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་བློ་གྲོས་མཐའ་ཡས།
   - མཛད་པ་པོ། བུ་སྟོན་ཐམས་ཅད་མཁྱེན་པ།
   - མཛད་པ་པོ། བཙུན་པ་དགེ་འདུན་རིན་ཆེན།
-  sku: RDI-SS-01
   layers:
   - book_title
   - author
@@ -12,6 +13,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-SS-01
 web_metadata:
   title:
     en: Selected Extracts from the Section on “The Process of Explaining and Listening
